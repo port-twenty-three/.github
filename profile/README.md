@@ -26,8 +26,6 @@
 </p>
 
 <hr style="border: 1px solid #e1e4e8; margin: 30px 0;" />
-
-![Duolingo Card](https://coolreadme.xyz/api/duolingo-card?language=Russian&streak=42&xp=1337&league=Obsidian)
 <!-- ======================================================== -->
 <!--  ОПИСАНИЕ ОРГАНИЗАЦИИ (РУССКАЯ ВЕРСИЯ)                    -->
 <!-- ======================================================== -->
@@ -224,6 +222,7 @@
 
 <hr style="border: 1px solid #e1e4e8; margin: 30px 0;" />
 
+![Duolingo Card](https://coolreadme.xyz/api/duolingo-card?language=Russian&streak=42&xp=1337&league=Obsidian)
 <p align="center" style="color: #888; font-size: 14px;">
   ✨ Made with ❤️ by <a href="https://github.com/port-23" style="color: #4B0082;">Port 23</a> team
 </p>

@@ -27,7 +27,7 @@
 
 <hr style="border: 1px solid #e1e4e8; margin: 30px 0;" />
 
-![YC Card](https://coolreadme.xyz/api/yc-card?name=Port+23&batch=W26&status=launching&tagline=Technology+Haven+for+the+Ambitious)
+![Duolingo Card](https://coolreadme.xyz/api/duolingo-card?language=Russian&streak=42&xp=1337&league=Obsidian)
 <!-- ======================================================== -->
 <!--  ОПИСАНИЕ ОРГАНИЗАЦИИ (РУССКАЯ ВЕРСИЯ)                    -->
 <!-- ======================================================== -->

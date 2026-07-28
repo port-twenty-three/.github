@@ -221,8 +221,18 @@
 </p>
 
 <hr style="border: 1px solid #e1e4e8; margin: 30px 0;" />
-<p
-![Duolingo Card](https://coolreadme.xyz/api/duolingo-card?language=Russian&streak=42&xp=1337&league=Obsidian)
+<!-- ======================================================== -->
+<!--  ПЛАТФОРМЕННЫЕ КАРТОЧКИ                                   -->
+<!-- ======================================================== -->
+<h2 align="left" style="border-bottom: 2px solid #4B0082; padding-bottom: 6px;">🎯 Port 23 в деталях</h2>
+
+<p align="center">
+  <img src="https://coolreadme.xyz/api/duolingo-card?language=Russian&streak=42&xp=1337&league=Obsidian" alt="Duolingo Card" width="300" />
+  <img src="https://coolreadme.xyz/api/yc-card?name=Port+23&batch=W26&status=launching&tagline=Technology+Haven+for+the+Ambitious" alt="YC Card" width="300" />
+</p>
+<p align="center">
+  <img src="https://coolreadme.xyz/api/hn-card?title=Port+23+%7C+Technology+Haven&type=Show+HN&by=port-23" alt="HN Card" width="300" />
+  <img src="https://coolreadme.xyz/api/linear-card?title=Build+Intelligent+Knowledge+Base&status=In+Progress&priority=Urgent&assignee=port-23" alt="Linear Card" width="300" />
 </p>
 <p align="center" style="color: #888; font-size: 14px;">
   ✨ Made with ❤️ by <a href="https://github.com/port-23" style="color: #4B0082;">Port 23</a> team

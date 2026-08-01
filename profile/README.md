@@ -2,7 +2,7 @@
 <!--  ПЕЧАТАЮЩИЙ ЗАГОЛОВОК (индиго, без фона, английский)      -->
 <!-- ======================================================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=400&size=44&pause=1000&color=4B0082&center=true&vCenter=true&width=900&height=100&lines=Port+23;Technology+Haven+for+the+Ambitious" alt="Port 23" />
+  <img [src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=400&size=44&pause=1000&color=4B0082&center=true&vCenter=true&width=900&height=100&lines=Port+23;Technology+Haven+for+the+Ambitious" alt="Port 23" />](https://github.com/port-twenty-three/.Templates/blob/main/image/logo.svg)
 </p>
 
 <p align="center" style="font-size: 1.2rem; color: #4B0082; font-family: 'Dancing Script', cursive; margin-top: -10px;">
